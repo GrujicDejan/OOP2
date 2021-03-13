@@ -1,4 +1,4 @@
-package oop2.p02.raspored;
+package z01v2;
 
 import java.time.LocalTime;
 
