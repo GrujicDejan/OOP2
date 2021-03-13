@@ -1,4 +1,4 @@
-package oop2;
+package z00;
 
 import java.io.BufferedReader;
 import java.io.IOException;
